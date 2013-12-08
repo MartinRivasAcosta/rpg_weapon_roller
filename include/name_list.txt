@@ -56,7 +56,7 @@ ancient   | _ the murderer, _ the brawn, eldermight, butcher
 
 attribute | dark
 common    | 
-uncommon  | 
+uncommon  | foul _
 rare      | tainted _
 mythical  | dark _, _ the dark
 legendary | demon edge, demonic _, _ of the demons, demonblade, _ feared
