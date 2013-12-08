@@ -1,0 +1,199 @@
+attribute | fire
+common    | red _, burning _, charred _
+uncommon  | _ of fire, _ of flames, scorched _
+rare      | ember _, flaming _, _ of burning, blazing _
+mythical  | _ the burner, _ the flaming, flamestrike, flame_, _flame, flaming _
+legendary | _ the ethernal torch, ember spirit, (dark)hellfire, (dark)hellbringer, (light)fire soul, ethernal torch, _ the dragon, dragon soul, dragonic _
+ancient   | _ the elderfire, _ the singer, singer _, elderfire, pitfire, arcanefire, dragon forged, _ of the dragons, (dark)the hellforged, kindlian _, the kindle
+
+attribute | attack speed
+common    | light _
+uncommon  | _ the swift, fast _, swift _
+rare      | _ of lightness, _ the quick, precise _, windy _, _ of the winds
+mythical  | feather weight, _ the feather
+legendary | _ the breeze, _ the mincing, mincing _
+ancient   | the shredderer, wind craver, the ancient wind, ancient wind, elder wind, old wind
+
+attribute | lifesteal
+common    | 
+uncommon  | 
+rare      | _ of blood, _ the thirst, thirsty _, hungry _, _ of hunger
+mythical  | _ the bloodseeker, _ the bloodthirst, bloodthirsty _
+legendary | bloodlust, bloodseeker, _ the wound licker, _ the harvester
+ancient   | _ of lifesteal, _ the lifestealer, wound licker, the devourer
+
+attribute | bonus vs orcs
+common    | 
+uncommon  | 
+rare      | _ the orc slayer, _ the slayer, _ of justice
+mythical  | _ the fair, _ the justice bringer, _ of willfullness, fair _, willfull _
+legendary | _ the punisher, fair_, _ the just, fist of heavens, _ the blessed, blessed 
+ancient   | elderwrath
+
+attribute | bonus vs elves
+common    | 
+uncommon  | 
+rare      | corrupt _, _ the corrupt
+mythical  | _ the unjust, unjust _, _ the unfair, vile _, _ the vile
+legendary | peace slayer, _ the vile murderer, vicious _, _ the inpure, inpure _, _ the blasphemous
+ancient   | orc wrath, _ the elf slayer, _ elf curse
+
+attribute | poison damage
+common    | poisoned _, fang, poisoned fang, mildew
+uncommon  | poisonous _, _ of poison, _ the ill, _ of illness, sickening _, nauseous _
+rare      | _ of sickness, _ the toxic, toxic _, sick _, venomous _, _ the venomous
+mythical  | bilious _, queasy _, _ of bile, blight _, _ the blight
+legendary | pus touch, pustule
+ancient   | plague bringer, _ the plage bringer, _ the black death, the black mamba, the infestation
+
+attribute | physical damage
+common    | strong _, brawn _, sharp _
+uncommon  | fierce _, powerful _, aggressive _, stout _
+rare      | _ of aggression, _ the aggressive
+mythical  | 
+legendary | 
+ancient   | _ the murderer, _ the brawn, eldermight, butcher
+
+attribute | dark
+common    | 
+uncommon  | 
+rare      | tainted _
+mythical  | dark _, _ the dark
+legendary | demon edge, demonic _, _ of the demons, demonblade, _ feared
+ancient   | the bad omen, cursed _, _ the cursed, forbidden _, _ the reaper, the heresy
+
+attribute | cold
+common    | cold _, blue _
+uncommon  | freezing _, _ of freeze, chilled _
+rare      | ice _, icy _
+mythical  | frozen _, _ the frozen, _ the freezing, freezing _, _ of frost
+legendary | azure _, chilling touch, winterwrath, _ the winter omen, azureblade, frozebite, frozen bite
+ancient   | ancient ice, glacial _, gelid _, cold breeze
+
+attribute | minus armor
+common    | 
+uncommon  | 
+rare      | acid _, _ of acid
+mythical  | 
+legendary | 
+ancient   | the armor burner, the splinter
+
+attribute | hunting
+common    | hunting _
+uncommon  | _ of the great hunter
+rare      | 
+mythical  | 
+legendary | 
+ancient   | _ of the big prey, old hunting bow, 
+
+attribute | electric
+common    | 
+uncommon  | _ of shock, static _, shocking _
+rare      | 
+mythical  | 
+legendary | thunderclap, thunder
+ancient   | lighting _, 
+
+attribute | true strike
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | bleeding
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | blindness
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | silence
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | _ of silence
+ancient   | 
+
+attribute | manaburn
+common    | 
+uncommon  | 
+rare      | _ the mana burner
+mythical  | 
+legendary | 
+ancient   | wizards curse
+
+attribute | light
+common    | 
+uncommon  | white _
+rare      | shining _, 
+mythical  | pure _, cleansing _
+legendary | blessed _, heavenly _, holy _
+ancient   | _ of the angels, angelical _, _ of the white knight
+
+attribute | bonus vs humans
+common    | 
+uncommon  | _ the slayer
+rare      | 
+mythical  | 
+legendary | 
+ancient   | the widower, old widower, widowmaker, orc gift, _ the orc gift, _ the orc blessed
+
+attribute | bonus vs undead
+common    | calming _
+uncommon  | _ calm, _ the burier
+rare      | _ the exonerator, the undead
+mythical  | _ the exorcist
+legendary | divine _
+ancient   | bone crusher, ethernal rest, the reaper
+
+attribute | necromancy
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | _ of the undead, _ the dead riser, _ of the dead riser, dead rising _, the dead riser
+
+attribute | berserk
+common    | brute _
+uncommon  | _ of the beast, _ the animal
+rare      | 
+mythical  | 
+legendary | 
+ancient   | death bringer
+
+attribute | slow
+common    | 
+uncommon  | 
+rare      | _ the maimer
+mythical  | _ the crippler, crippling _
+legendary | 
+ancient   | 
+
+attribute | 
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | 
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 

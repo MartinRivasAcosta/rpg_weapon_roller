@@ -1,0 +1,175 @@
+attribute | fire
+common    | +X/Y fire damage
+uncommon  | (common), +X fire dot
+rare      | (uncommon), explodes on kill
+mythical  | (uncommon), explodes on hit
+legendary | 
+ancient   | 
+
+attribute | attack speed
+common    | 
+uncommon  | 
+rare      | 
+mythical  |
+legendary | 
+ancient   | 
+
+attribute | lifesteal
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | bonus vs orcs
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | bonus vs elves
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | poison damage
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | physical damage
+common    | 
+uncommon  | 
+rare      | 
+mythical  | doublehit
+legendary | doublehit
+ancient   | 
+
+attribute | dark
+common    | 
+uncommon  | 
+rare      | bonus vs light
+mythical  | 
+legendary | 
+ancient   | +X on night, +X on caves, (rare), silence self
+
+attribute | cold
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | minus armor
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | hunting
+common    | +X pelt quality
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | (common)
+
+attribute | electric
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | true strike
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | bleeding
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | blindness
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | silence
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | manaburn
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | light
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | aoe blind
+ancient   | bonus vs arachnids
+
+attribute | bonus vs humans
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | bonus vs undead
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | 
+
+attribute | necromancy
+common    | 
+uncommon  | 
+rare      | 
+mythical  | 
+legendary | 
+ancient   | revives dead
+
+attribute | berserk
+common    | +-X damage, damages allies
+uncommon  | crits, double hit
+rare      |
+mythical  | 
+legendary | 
+ancient   | 
