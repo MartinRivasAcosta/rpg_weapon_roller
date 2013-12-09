@@ -1,7 +1,7 @@
 attribute | fire
-common    | red _, burning _, charred _
+common    | red _, burning _, charred
 uncommon  | _ of fire, _ of flames, scorched _
-rare      | ember _, flaming _, _ of burning, blazing _
+rare      | ember _, flaming _, _ of burning, blazing _, molten _
 mythical  | _ the burner, _ the flaming, flamestrike, flame_, _flame, flaming _
 legendary | _ the ethernal torch, ember spirit, (dark)hellfire, (dark)hellbringer, (light)fire soul, ethernal torch, _ the dragon, dragon soul, dragonic _
 ancient   | _ the elderfire, _ the singer, singer _, elderfire, pitfire, arcanefire, dragon forged, _ of the dragons, (dark)the hellforged, kindlian _, the kindle
@@ -9,16 +9,16 @@ ancient   | _ the elderfire, _ the singer, singer _, elderfire, pitfire, arcanef
 attribute | attack speed
 common    | light _
 uncommon  | _ the swift, fast _, swift _
-rare      | _ of lightness, _ the quick, precise _, windy _, _ of the winds
-mythical  | feather weight, _ the feather
+rare      | _ of lightness, _ the quick, precise _, windy _, _ of the winds, gratious _
+mythical  | feather weight, _ the feather, _ of grace
 legendary | _ the breeze, _ the mincing, mincing _
-ancient   | the shredderer, wind craver, the ancient wind, ancient wind, elder wind, old wind
+ancient   | wind craver, the ancient wind, ancient wind, elder wind, old wind
 
 attribute | lifesteal
 common    | 
 uncommon  | 
 rare      | _ of blood, _ the thirst, thirsty _, hungry _, _ of hunger
-mythical  | _ the bloodseeker, _ the bloodthirst, bloodthirsty _
+mythical  | _ the bloodseeker, _ the bloodthirst, bloodthirsty _, _ of the feast
 legendary | bloodlust, bloodseeker, _ the wound licker, _ the harvester
 ancient   | _ of lifesteal, _ the lifestealer, wound licker, the devourer
 
@@ -39,7 +39,7 @@ legendary | peace slayer, _ the vile murderer, vicious _, _ the inpure, inpure _
 ancient   | orc wrath, _ the elf slayer, _ elf curse
 
 attribute | poison damage
-common    | poisoned _, fang, poisoned fang, mildew
+common    | poisoned _, fang, poisoned fang, mildew, rotten _, _ of the rotten
 uncommon  | poisonous _, _ of poison, _ the ill, _ of illness, sickening _, nauseous _
 rare      | _ of sickness, _ the toxic, toxic _, sick _, venomous _, _ the venomous
 mythical  | bilious _, queasy _, _ of bile, blight _, _ the blight
@@ -48,7 +48,7 @@ ancient   | plague bringer, _ the plage bringer, _ the black death, the black ma
 
 attribute | physical damage
 common    | strong _, brawn _, sharp _
-uncommon  | fierce _, powerful _, aggressive _, stout _
+uncommon  | fierce _, powerful _, aggressive _, stout _, the tenderizer
 rare      | _ of aggression, _ the aggressive
 mythical  | 
 legendary | 
@@ -56,11 +56,12 @@ ancient   | _ the murderer, _ the brawn, eldermight, butcher
 
 attribute | dark
 common    | 
-uncommon  | foul _
-rare      | tainted _
-mythical  | dark _, _ the dark
+uncommon  | foul _, possesed _, damned _, immoral _
+rare      | tainted _, cruel _, _ of immorality
+mythical  | dark _, _ the dark, the immoral, abysmal _
 legendary | demon edge, demonic _, _ of the demons, demonblade, _ feared
-ancient   | the bad omen, cursed _, _ the cursed, forbidden _, _ the reaper, the heresy
+ancient   | the bad omen, cursed _, _ the cursed, forbidden _, _ the reaper, the heresy, stygian _
+
 
 attribute | cold
 common    | cold _, blue _
@@ -73,15 +74,15 @@ ancient   | ancient ice, glacial _, gelid _, cold breeze
 attribute | minus armor
 common    | 
 uncommon  | 
-rare      | acid _, _ of acid
-mythical  | 
-legendary | 
+rare      | acid _, _ of acid, shield breaker _, shield pircing _, armor breaker _, armor pircing _
+mythical  | the impaler
+legendary | the shredderer, 
 ancient   | the armor burner, the splinter
 
 attribute | hunting
-common    | hunting _
-uncommon  | _ of the great hunter
-rare      | 
+common    | hunting _, _ of the hunt
+uncommon  | _ of the great hunter, _ of the bullseye
+rare      | feral _, _ of the marksman, marksman _, _ of the taxidermist, _ of taxidermia
 mythical  | 
 legendary | 
 ancient   | _ of the big prey, old hunting bow, 
@@ -140,7 +141,7 @@ uncommon  | white _
 rare      | shining _, 
 mythical  | pure _, cleansing _
 legendary | blessed _, heavenly _, holy _
-ancient   | _ of the angels, angelical _, _ of the white knight
+ancient   | _ of the angels, angelical _, _ of the white knight, _ of incandescence
 
 attribute | bonus vs humans
 common    | 
@@ -148,15 +149,15 @@ uncommon  | _ the slayer
 rare      | 
 mythical  | 
 legendary | 
-ancient   | the widower, old widower, widowmaker, orc gift, _ the orc gift, _ the orc blessed
+ancient   | the widower, old widower, widowmaker, orc gift, _ the orc gift, _ the orc blessed, the orphanmaker
 
 attribute | bonus vs undead
 common    | calming _
 uncommon  | _ calm, _ the burier
 rare      | _ the exonerator, the undead
-mythical  | _ the exorcist
-legendary | divine _
-ancient   | bone crusher, ethernal rest, the reaper
+mythical  | _ the exorcist, purging _
+legendary | divine _, _of the grave defiler, soul releasing _
+ancient   | bone crusher, ethernal rest, the reaper, cremator's delight
 
 attribute | necromancy
 common    | 
@@ -167,17 +168,17 @@ legendary |
 ancient   | _ of the undead, _ the dead riser, _ of the dead riser, dead rising _, the dead riser
 
 attribute | berserk
-common    | brute _
-uncommon  | _ of the beast, _ the animal
-rare      | 
-mythical  | 
-legendary | 
-ancient   | death bringer
+common    | brute _, unfitting _
+uncommon  | _ of the beast, _ the animal, _ of rage
+rare      | _ of the jackal, _ of the fanatic
+mythical  | _ of the vicious
+legendary | _ of carnage
+ancient   | death bringer, warcry
 
 attribute | slow
 common    | 
 uncommon  | 
-rare      | _ the maimer
+rare      | _ the maimer, sloth inducing _
 mythical  | _ the crippler, crippling _
 legendary | 
 ancient   | 
