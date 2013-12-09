@@ -1,5 +1,5 @@
 attribute | fire
-common    | red _, burning _, charred
+common    | red _, burning _, charred _
 uncommon  | _ of fire, _ of flames, scorched _
 rare      | ember _, flaming _, _ of burning, blazing _, molten _
 mythical  | _ the burner, _ the flaming, flamestrike, flame_, _flame, flaming _
@@ -61,7 +61,6 @@ rare      | tainted _, cruel _, _ of immorality
 mythical  | dark _, _ the dark, the immoral, abysmal _
 legendary | demon edge, demonic _, _ of the demons, demonblade, _ feared
 ancient   | the bad omen, cursed _, _ the cursed, forbidden _, _ the reaper, the heresy, stygian _
-
 
 attribute | cold
 common    | cold _, blue _
